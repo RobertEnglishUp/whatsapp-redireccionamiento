@@ -1,1 +1,2 @@
-# whatsapp-redireccionamiento
+- Asesor 1: [4616147552](https://wa.me/4616147552
+- Asesor 1: [4611460569](https://wa.me/4611460569
