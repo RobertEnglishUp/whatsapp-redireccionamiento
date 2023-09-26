@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Redireccionamiento aleatorio</title>
+</head>
+<body>
+    <script>
+        var links = document.querySelectorAll("a");
+        var randomIndex = Math.floor(Math.random() * links.length);
+        window.location.href = links[randomIndex].href;
+    </script>
+</body>
+</html>
