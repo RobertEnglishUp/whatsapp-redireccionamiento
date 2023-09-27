@@ -1,2 +1,2 @@
-- Asesor 1: [4616147552](https://wa.me/524616147552
-- Asesor 1: [4611460569](https://wa.me/524611460569
+- [Asesor 1](https://wa.me/524616147552
+- [Asesor 2](https://wa.me/524611460569
